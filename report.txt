@@ -1,0 +1,207 @@
+Matrix Class!
+--------------------------------------------------------------------------------------------------- 
+Matrix Pair: 1
+
+	PROCESSING FIRST MATRIX
+	  1  1
+Reflexive, symmetric, or transitive properties: Matrix must be square
+
+
+	PROCESSING SECOND MATRIX
+Column input value is not valid
+
+
+	PROCESSING BOTH MATRICES
+One of the vectors was invalid
+
+
+--------------------------------------------------------------------------------------------------- 
+Matrix Pair: 2
+
+	PROCESSING FIRST MATRIX
+There is not enough input for this matrix
+
+
+	PROCESSING SECOND MATRIX
+	  0  1
+	  0  1
+	  0  1
+Reflexive, symmetric, or transitive properties: Matrix must be square
+
+
+	PROCESSING BOTH MATRICES
+One of the vectors was invalid
+
+
+--------------------------------------------------------------------------------------------------- 
+Matrix Pair: 3
+
+	PROCESSING FIRST MATRIX
+Vector value is not 0 or 1
+
+
+	PROCESSING SECOND MATRIX
+	  0  1
+	  0  1
+Reflexive, symmetric, or transitive properties: 
+
+	PROCESSING BOTH MATRICES
+One of the vectors was invalid
+
+
+--------------------------------------------------------------------------------------------------- 
+Matrix Pair: 4
+
+	PROCESSING FIRST MATRIX
+	  1  1  0
+	  1  1  0
+Reflexive, symmetric, or transitive properties: Matrix must be square
+
+
+	PROCESSING SECOND MATRIX
+	  0  1
+	  0  1
+	  0  1
+Reflexive, symmetric, or transitive properties: Matrix must be square
+
+
+	PROCESSING BOTH MATRICES
+Matrices must be the same size to add and subtract.
+Multiplication: 
+	  0  2
+	  0  2
+
+
+--------------------------------------------------------------------------------------------------- 
+Matrix Pair: 5
+
+	PROCESSING FIRST MATRIX
+	  0  1  1  0
+	  0  1  1  0
+	  0  1  1  1
+Reflexive, symmetric, or transitive properties: Matrix must be square
+
+
+	PROCESSING SECOND MATRIX
+	  0  0  1  1
+	  1  1  0  1
+	  1  0  0  1
+Reflexive, symmetric, or transitive properties: Matrix must be square
+
+
+	PROCESSING BOTH MATRICES
+Addition: 
+	  0  1  2  1
+	  1  2  1  1
+	  1  1  1  2
+Subtration: 
+	  0  1  0 -1
+	 -1  0  1 -1
+	 -1  1  1  0
+Number of columns in the first matrix must be equal to the number of rows in the second matrix to multiply.
+
+
+--------------------------------------------------------------------------------------------------- 
+Matrix Pair: 6
+
+	PROCESSING FIRST MATRIX
+	  1  1  0
+	  0  1  0
+	  1  0  1
+Reflexive, symmetric, or transitive properties: The matrix is reflexive.
+
+	PROCESSING SECOND MATRIX
+	  1  0  1
+	  0  1  0
+	  1  0  0
+Reflexive, symmetric, or transitive properties:  The matrix is symmetric.
+
+	PROCESSING BOTH MATRICES
+Addition: 
+	  2  1  1
+	  0  2  0
+	  2  0  1
+Subtration: 
+	  0  1 -1
+	  0  0  0
+	  0  0  1
+Multiplication: 
+	  1  1  1
+	  0  1  0
+	  2  0  1
+
+
+--------------------------------------------------------------------------------------------------- 
+Matrix Pair: 7
+
+	PROCESSING FIRST MATRIX
+	  1  0  1  0
+	  1  0  0  0
+	  1  0  0  0
+Reflexive, symmetric, or transitive properties: Matrix must be square
+
+
+	PROCESSING SECOND MATRIX
+Vector value is not 0 or 1
+
+
+	PROCESSING BOTH MATRICES
+One of the vectors was invalid
+
+
+--------------------------------------------------------------------------------------------------- 
+Matrix Pair: 8
+
+	PROCESSING FIRST MATRIX
+	  1  0  0  0
+	  0  1  0  0
+	  0  0  1  0
+	  0  0  0  1
+Reflexive, symmetric, or transitive properties: The matrix is reflexive. The matrix is symmetric.
+
+	PROCESSING SECOND MATRIX
+	  1  1  0  0
+	  1  0  1  0
+	  0  1  0  1
+	  0  0  1  1
+Reflexive, symmetric, or transitive properties:  The matrix is symmetric.
+
+	PROCESSING BOTH MATRICES
+Addition: 
+	  2  1  0  0
+	  1  1  1  0
+	  0  1  1  1
+	  0  0  1  2
+Subtration: 
+	  0 -1  0  0
+	 -1  1 -1  0
+	  0 -1  1 -1
+	  0  0 -1  0
+Multiplication: 
+	  1  1  0  0
+	  1  0  1  0
+	  0  1  0  1
+	  0  0  1  1
+
+
+--------------------------------------------------------------------------------------------------- 
+Matrix Pair: 9
+
+	PROCESSING FIRST MATRIX
+	  1  1  1  1  1
+	  0  1  1  1  1
+	  0  0  1  1  1
+	  0  0  0  1  1
+	  0  0  0  0  1
+Reflexive, symmetric, or transitive properties: The matrix is reflexive.
+
+	PROCESSING SECOND MATRIX
+	  1  1  1  1  0
+Reflexive, symmetric, or transitive properties: Matrix must be square
+
+
+	PROCESSING BOTH MATRICES
+Matrices must be the same size to add and subtract.
+Number of columns in the first matrix must be equal to the number of rows in the second matrix to multiply.
+
+
